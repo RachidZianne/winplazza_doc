@@ -22,7 +22,7 @@ include("languages/$language.php");
 <!DOCTYPE html>
 <html lang="<?php echo $language; ?>"> 
 <head>
-    <title><?php echo $lang['winPlaza_documents']; ?></title>
+    <title>"<?php echo $lang['winPlaza_documents']; ?>"</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
